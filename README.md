@@ -1,6 +1,6 @@
 ### Here is `PragmaTwice`, aka `twice` or `2ce`
 
-- 🔭 I'm currently interested in program analysis, programming languages and formal verification
+- ✨ I'm currently interested in program analysis, programming languages and formal verification
 
 <!--
 **PragmaTwice/PragmaTwice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

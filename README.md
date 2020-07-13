@@ -1,4 +1,4 @@
-### Here is `PragmaTwice`, aka `twice` or `2ce`
+### Here is `PragmaTwice`, aka `Twice` or `2ce`
 
 - ✨ I'm currently interested in program analysis, programming languages and formal verification
 

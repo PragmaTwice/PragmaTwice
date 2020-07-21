@@ -1,6 +1,6 @@
 ### Here is `PragmaTwice`, aka `Twice` or `2ce`
 
-- ✨ I'm currently interested in program analysis, programming languages and formal verification on software
+- ✨ I'm currently interested in program analysis, programming languages & formal verification on software programs
 - ✨ I'm a little familiar with system construction & library design in modern C++, especially for compiler technology
 
 <!--

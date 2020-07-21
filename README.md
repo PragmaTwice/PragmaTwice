@@ -1,6 +1,7 @@
 ### Here is `PragmaTwice`, aka `Twice` or `2ce`
 
-- ✨ I'm currently interested in program analysis, programming languages and formal verification
+- ✨ I'm currently interested in program analysis, programming languages and formal verification on software
+- ✨ I'm a little familiar with system construction & library design in modern C++, especially for compiler technology
 
 <!--
 **PragmaTwice/PragmaTwice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

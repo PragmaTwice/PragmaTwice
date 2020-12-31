@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=PragmaTwice&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=PragmaTwice&show_icons=true&count_private=true&include_all_commits=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PragmaTwice&hide=html,css&layout=compact&langs_count=9)

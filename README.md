@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=PragmaTwice&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&line_height=24)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PragmaTwice&hide=html,css,qml,cmake,qmake&layout=compact&langs_count=8&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=PragmaTwice&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&line_height=28&hide_rank=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PragmaTwice&hide=html,css,qml,qmake&layout=compact&langs_count=10&theme=github_dark)
 
 ✊ [Stand up for Richard M. Stallman](https://rms-support-letter.github.io/)

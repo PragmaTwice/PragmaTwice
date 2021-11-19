@@ -15,7 +15,9 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
+          plugin_languages_ignored: html, css, qml, qmake               # List of languages to ignore
           plugin_languages_sections: most-used                          # Display most used and recently used
+          plugin_languages_limit: 10                                    # Display up to 8 languages
           plugin_languages_details: percentage                          # Additionally display total bytes size and percentage
           plugin_languages_indepth: no                                  # Get indepth stats (see documentation before enabling)
           plugin_languages_analysis_timeout: 15                         # Set maximum time for indepth analysis

@@ -14,16 +14,23 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+          
           plugin_languages: yes
-          plugin_languages_ignored: html, css, qml, qmake               # List of languages to ignore
-          plugin_languages_sections: most-used                          # Display most used and recently used
-          plugin_languages_limit: 10                                    # Display up to 8 languages
-          plugin_languages_details: percentage                          # Additionally display total bytes size and percentage
-          plugin_languages_indepth: no                                  # Get indepth stats (see documentation before enabling)
-          plugin_languages_analysis_timeout: 15                         # Set maximum time for indepth analysis
-          plugin_languages_categories: programming                      # Display only languages that match these categories in most-used section
+          plugin_languages_ignored: html, css, qml, qmake
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 10
+          plugin_languages_details: percentage
+          plugin_languages_indepth: no
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: programming
+          
           plugin_notable: yes
-          plugin_notable_filter: stars:>100 # Only display repositories with 500 stars or more (syntax based on GitHub search query)
-          plugin_notable_from: organization # Only display contributions within organization repositories
-          plugin_notable_repositories: yes  # Display repositories name instead of only organization name
-          plugin_notable_indepth: yes       # Gather additional informations about contributions
+          plugin_notable_filter: stars:>500 forks:>100
+          plugin_notable_from: organization
+          plugin_notable_repositories: yes
+          plugin_notable_indepth: no
+          
+          user: PragmaTwice
+          template: classic
+          repositories: 500
+          repositories_batch: 500

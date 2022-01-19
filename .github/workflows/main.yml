@@ -34,5 +34,5 @@ jobs:
           base: header, activity, community, repositories, metadata
           template: classic
           repositories: 500
-          repositories_batch: 3
+          repositories_batch: 1
           config_display: columns

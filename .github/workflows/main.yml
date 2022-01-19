@@ -28,11 +28,11 @@ jobs:
           plugin_notable_filter: stars:>500 forks:>100
           plugin_notable_from: organization
           plugin_notable_repositories: yes
-          plugin_notable_indepth: no
+          plugin_notable_indepth: yes
           
           user: PragmaTwice
           base: header, activity, community, repositories, metadata
           template: classic
           repositories: 500
-          repositories_batch: 3
+          repositories_batch: 10
           config_display: columns

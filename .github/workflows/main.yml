@@ -28,11 +28,12 @@ jobs:
           plugin_notable_filter: stars:>500 forks:>100
           plugin_notable_from: organization
           plugin_notable_repositories: yes
-          plugin_notable_indepth: yes
+          plugin_notable_skipped: rms-support-letter/rms-support-letter.github.io
+          plugin_notable_indepth: no
           
           user: PragmaTwice
           base: header, activity, community, repositories, metadata
           template: classic
           repositories: 500
-          repositories_batch: 1
+          repositories_batch: 3
           config_display: columns

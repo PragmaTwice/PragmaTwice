@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PragmaTwice&hide=html,css,qml,qmake&layout=compact&langs_count=10&theme=github_dark&card_width=250)
 
 - ✊ [Stand up for Richard M. Stallman](https://rms-support-letter.github.io/)
-- 🇺🇦 [Support the Ukrainian Army to defeat invaders](https://savelife.in.ua/en/donate/)

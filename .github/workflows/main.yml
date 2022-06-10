@@ -37,3 +37,4 @@ jobs:
           repositories: 500
           repositories_batch: 10
           config_display: columns
+          base_indepth: yes

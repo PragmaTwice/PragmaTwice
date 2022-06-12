@@ -34,8 +34,8 @@ jobs:
           user: PragmaTwice
           base: header, activity, community, repositories, metadata
           template: classic
-          repositories: 500
-          repositories_batch: 10
+          repositories: 200
+          repositories_batch: 50
           config_display: columns
           base_indepth: yes
           base_hireable: yes

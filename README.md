@@ -18,7 +18,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./github-metrics.svg" width="100%" align="center"/>
+<a href="https://github.com/PragmaTwice">
+  <img align="center" width="49%" src="./metrics-main.svg" />
+</a>
+<a href="https://github.com/PragmaTwice">
+  <img align="center" width="49%" src="./metrics-lang-notable.svg" />
+</a>
+
+---
 
 ```sh
 echo -n "My email address: " && echo QkVzzAyYQ0kMoVEH0mihz7zDbk6aalkDYvfnW1OaccM= | openssl enc -d -base64 | openssl enc -d -aes-128-cbc -iv 205731624 -K 230549126 2>/dev/null

@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./github-metrics.svg"/>
+<img src="./github-metrics.svg" width="100%"/>
 
 ```sh
 echo -n "My email address: " && echo QkVzzAyYQ0kMoVEH0mihz7zDbk6aalkDYvfnW1OaccM= | openssl enc -d -base64 | openssl enc -d -aes-128-cbc -iv 205731624 -K 230549126 2>/dev/null

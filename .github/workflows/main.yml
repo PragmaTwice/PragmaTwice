@@ -6,7 +6,25 @@ on:
   workflow_dispatch:
   push: {branches: ["master"]}
 jobs:
-  github-metrics:
+  metrics-main:
+    runs-on: ubuntu-latest
+    steps:
+      # See action.yml for all options
+      - uses: lowlighter/metrics@master
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          user: PragmaTwice
+          base: header, activity, community, repositories, metadata
+          filename: metrics-main.svg
+          template: classic
+          repositories: 200
+          repositories_batch: 50
+          base_indepth: yes
+          base_hireable: yes
+          
+  metrics-lang-notable:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
@@ -32,10 +50,8 @@ jobs:
           plugin_notable_indepth: no
           
           user: PragmaTwice
-          base: header, activity, community, repositories, metadata
+          base: ''
+          filename: metrics-lang-notable.svg
           template: classic
           repositories: 200
           repositories_batch: 50
-          config_display: columns
-          base_indepth: yes
-          base_hireable: yes

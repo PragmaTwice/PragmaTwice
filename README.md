@@ -2,7 +2,7 @@
 
 <p align="right">OPINIONS ARE MY OWN</p>
 
-- ✨ I'm currently interested in program analysis, programming languages, machine-learning systems (especially DL compilers) and Rust
+- ✨ I'm currently interested in program analysis, programming languages, machine-learning systems (e.g. DL compilers) and Rust
 - ✨ I'm a little familiar with system construction & library design in modern C++, especially for compiler technology
 
 <!--
